@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="_30_12_2021">30–12–2021</string>
+    <string name="_36_c">36`C</string>
+    <string name="temp">Temp</string>
+    <string name="todo">TODO</string>
+    <string-array name="brew_array">
+        <item>Mangaluru</item>
+        <item>Suratkal</item>
+        <item>Sullia</item>
+        <item>Kadaba</item>
+        <item>bajpe</item>
+        <item>Moodbidri</item>
+        <item>Kateel</item>
+        <item>Vittla</item>
+        <item>Dharmasthala</item>
+        <item>Bantwal</item>
+        <item>Belthangady</item>
+        <item>Mulki</item>
+        <item>Subramanya</item>
+        <item>Ullala</item>
+        <item>Someshwara</item>
+    </string-array>
+</resources>

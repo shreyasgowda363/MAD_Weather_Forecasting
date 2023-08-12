@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6360705570",
+    "firebase_url": "https://myapp-ed60b-default-rtdb.firebaseio.com",
+    "project_id": "myapp-ed60b",
+    "storage_bucket": "myapp-ed60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6360705570:android:4925c73c007355b249787b",
+        "android_client_info": {
+          "package_name": "com.example.weatherjano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6360705570-bo4lmkeupe2tsjsma821elve5f4qq83j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherjano",
+            "certificate_hash": "23aee0cbdb09bb990f72c69e71267bd2505e9acd"
+          }
+        },
+        {
+          "client_id": "6360705570-k02fc9597p1ic0bu4k91r3ur0mco58dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbwdpOfLc-YXkT9zI3ulpBtchVOWowyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6360705570-k02fc9597p1ic0bu4k91r3ur0mco58dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
